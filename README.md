@@ -1,2 +1,33 @@
-# linear-regression-insurance
-Linear regression project predicting medical insurance charges using demographic and lifestyle features. Includes data cleaning, correlation analysis, model training, and performance evaluation.
+# Predicting Insurance Charges Using Linear Regression
+
+This project uses a real-world dataset to predict individual medical insurance costs using linear regression. We explore how demographic and lifestyle factors — such as age, BMI, and smoking status — influence charges.
+
+## 📊 Key Features
+- Data cleaning and exploratory analysis
+- Correlation heatmap and feature encoding
+- Linear regression model training and testing
+- Model performance metrics: R² and MSE
+- Visual comparison of actual vs predicted charges
+
+## 🧪 Tools Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter / Google Colab
+
+## 📁 Files Included
+- `Insurance_Formatted.ipynb`: Final notebook
+- `insurance.csv`: Dataset
+- `actual_vs_predicted.png`: Visualization
+- `report.docx`: APA-style write-up (optional)
+- `requirements.txt`: Project dependencies
+
+## 📈 Results
+- **R² Score:** 0.78
+- **MSE:** 33.6 million
+- **Top Features:** Smoking status, Age, BMI
+
+## 🙋‍♂️ Author
+Billy Pierre  
+[LinkedIn](https://www.linkedin.com/in/pierrebilly/)

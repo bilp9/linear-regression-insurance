@@ -20,7 +20,7 @@ This project uses a real-world dataset to predict individual medical insurance c
 - `Insurance_Formatted.ipynb`: Final notebook
 - `insurance.csv`: Dataset
 - `actual_vs_predicted.png`: Visualization
-- `report.docx`: APA-style write-up (optional)
+- `report.docx`: APA-style write-up 
 - `requirements.txt`: Project dependencies
 
 ## 📈 Results

@@ -17,10 +17,10 @@ This project uses a real-world dataset to predict individual medical insurance c
 - Jupyter / Google Colab
 
 ## 📁 Files Included
-- `Insurance_Formatted.ipynb`: Final notebook
+- ` Insurance_Predictor.ipynb`: Final notebook
 - `insurance.csv`: Dataset
 - `actual_vs_predicted.png`: Visualization
-- `report.docx`: APA-style write-up 
+- `report.pdf`: APA-style write-up 
 - `requirements.txt`: Project dependencies
 
 ## 📈 Results
